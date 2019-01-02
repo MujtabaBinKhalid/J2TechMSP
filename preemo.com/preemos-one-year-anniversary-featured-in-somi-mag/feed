@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Preemo&#8217;s One Year Anniversary Featured In SoMi Mag</title>
+	<atom:link href="https://preemo.com/preemos-one-year-anniversary-featured-in-somi-mag/feed" rel="self" type="application/rss+xml" />
+	<link>https://preemo.com/preemos-one-year-anniversary-featured-in-somi-mag</link>
+	<description>Fanatical IT Support for Your Miami Area Organization</description>
+	<lastBuildDate>Sun, 16 Nov 2014 21:24:43 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>By: Ivan</title>
+		<link>https://preemo.com/preemos-one-year-anniversary-featured-in-somi-mag#comment-12</link>
+		<dc:creator><![CDATA[Ivan]]></dc:creator>
+		<pubDate>Mon, 19 Apr 2010 20:25:10 +0000</pubDate>
+		<guid isPermaLink="false">http://www.preemo.com/?p=479#comment-12</guid>
+		<description><![CDATA[Thanks Sonia!]]></description>
+		<content:encoded><![CDATA[<p>Thanks Sonia!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Sonia Succar</title>
+		<link>https://preemo.com/preemos-one-year-anniversary-featured-in-somi-mag#comment-11</link>
+		<dc:creator><![CDATA[Sonia Succar]]></dc:creator>
+		<pubDate>Mon, 19 Apr 2010 15:56:51 +0000</pubDate>
+		<guid isPermaLink="false">http://www.preemo.com/?p=479#comment-11</guid>
+		<description><![CDATA[Great article. Ivan is wonderful to work with and is a leader in this ever transforming market. Congratulations Preemo!]]></description>
+		<content:encoded><![CDATA[<p>Great article. Ivan is wonderful to work with and is a leader in this ever transforming market. Congratulations Preemo!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
